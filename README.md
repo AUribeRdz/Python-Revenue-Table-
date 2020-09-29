@@ -1,6 +1,6 @@
 # Python-Revenue-Table-
 # Calculate cummulative revenue per user_id and game_id within Python coding 
-# From repository "  "
+# From repository "SQL-Revenue-Table / Calculate cummulative revenue per user_id and game_id within SQL coding"
 # 2. Now calulate the same result but using Python without any dataframe or sql libraries. (DO NOT USE PANDAS or NUMPY)
 # 
 # You can use the following in your code to help you get started with creating a data-structure to store the input data. You can edit it if want to fit your solution/algorithm:
